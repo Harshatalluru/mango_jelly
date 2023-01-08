@@ -1,0 +1,17 @@
+[{
+    "items": [{
+        "id":"1",
+        "name":"samsung",
+        "ram":"4GB",
+        "rom":"64GB",
+        "screen size":"6.12 inch"
+        
+    },{
+        "id":"2",
+        "name":"nokia",
+        "ram":"6GB",
+        "rom":"124GB",
+        "screen size":"5.12 inch"
+    }]
+
+}]
